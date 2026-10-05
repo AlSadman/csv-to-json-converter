@@ -1,0 +1,22 @@
+# Python cache and byte-code
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated JSON output files (keep directory README)
+output/*.json
